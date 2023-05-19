@@ -1,5 +1,5 @@
- [![GitHub stars](https://img.shields.io/github/stars/internetwache/GitTools.svg)](https://github.com/RootKrd/GitTool/stargazers)
- [![GitHub license](https://img.shields.io/github/license/internetwache/GitTools.svg)](https://github.com/RootKrd/GitTool/blob/master/LICENSE.md)
+ [![GitHub stars](https://img.shields.io/github/stars/internetwache/GitTools.svg)](https://github.com/RootKrd/GitTool/)
+ [![GitHub license](https://img.shields.io/github/license/internetwache/GitTools.svg)](https://raw.githubusercontent.com/RootKRD/GitTool/main/LICENSE)
  
 
 # GitTools 
