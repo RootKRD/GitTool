@@ -130,4 +130,4 @@ http://username:password@proxy_url:proxy_port
 
 # License
 
-All tools are licensed using the MIT license. See [LICENSE.md](LICENSE.md)
+All tools are licensed using the MIT license. See ![LICENSE.md]([LICENSE.md](https://raw.githubusercontent.com/RootKRD/GitTool/main/LICENSE))
